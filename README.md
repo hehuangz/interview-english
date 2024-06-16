@@ -82,6 +82,19 @@
 | Restricted Stock Unit (RSU)   | 限制性股票 |
 | Paid Time Off (PTO)   | 带薪休假 |
 
+#### 算法短语
+
+| 内容                                      | 含义               |
+| ----------------------------------------- | ------------------ |
+| Brute Force Paradigm                      | 暴力破解法         |
+| go through every characters               | 遍历每一位字符     |
+| the second to last characters             | 倒数第二位字符     |
+| Determine whether it is the target result | 判断是否是目标结果 |
+| Double pointers                           | 双指针             |
+| mean                                      | 平均数             |
+| median                                    | 中位数             |
+
+
 #### 数学
 
 |  内容   | 读法  | 
